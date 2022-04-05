@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=777777)
 
 
-## 📟 Contact
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pansew@gmail.com)](mailto:pansew@gmail.com)
+
