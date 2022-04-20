@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![MQTT](https://img.shields.io/badge/MQTT-informational?style=flat&logo=MQTT&logoColor=white&color=777777)
 ![Github](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=777777)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=777777)
-![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=Kubernetes&logoColor=white&color=777777)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=Kubernetes&logoColor=white&color=777777)
+![Jenkins](https://img.shields.io/badge/Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=777777)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=777777)
 
 
