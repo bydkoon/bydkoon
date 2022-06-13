@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 ![Language](https://img.shields.io/badge/Language-informational?style=flat)
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=777777)
 ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=777777)
-
 </br>
 ![Framework](https://img.shields.io/badge/Framework-informational?style=flat)
 ![Django](https://img.shields.io/badge/Django-informational?style=flat&logo=Django&logoColor=white&color=777777)
